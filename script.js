@@ -1,2 +1,2 @@
 let yourArray = ['hello',14,false,14.2,'x'];
-console.log(yourArray);
+console.log(yourArray.length);
